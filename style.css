@@ -17,6 +17,7 @@ body {
 
 span {
   display: flex;
+  justify-content: center;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 25px;
   padding: 20px;
