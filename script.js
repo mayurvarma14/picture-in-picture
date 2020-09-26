@@ -16,4 +16,5 @@ button.addEventListener('click', async () => {
   await videoElement.requestPictureInPicture();
   button.disabled = false;
 });
+
 selectMediaStream();
